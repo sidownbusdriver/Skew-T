@@ -1,0 +1,77 @@
+commit 4cc5a00df901c1ab8c232449aaa6456860d72fad
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Wed Oct 15 23:04:47 2014 -0500
+
+    Everything is working.
+
+commit ed4675c7f5923106bc839189ce54ea97c62cca30
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Wed Oct 15 10:48:11 2014 -0500
+
+    Changed calculation of temperature using theta, now dry adiabats look right.
+
+commit bb80548ae8342b6ae352ae72430fc255d2f63227
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Wed Oct 15 10:41:24 2014 -0500
+
+    Everything working except moist adiabats.
+
+commit b610d7c0d7fe4e777a72195c5e8daa3841885067
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Tue Oct 14 13:08:31 2014 -0500
+
+    Mixing ratio lines now plotted. Dry and moist adiabats wrong.
+
+commit 0b8e94610050fc34c5cc85340110d8b8415b6a95
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Tue Oct 14 11:24:16 2014 -0500
+
+    Finished wrtiting function to read in data. Sounding chosen is from Dallas 10/14/2014 00Z.
+
+commit 772ca444ba4924204368a8c8aad1e51fb8a09d30
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Tue Oct 14 11:12:50 2014 -0500
+
+    Skew T only has temp and pressure lines.
+
+commit 8af5fa61028a9e8fc39954a87f630907d64a3b44
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Mon Oct 13 20:22:48 2014 -0500
+
+    Part J is now complete.
+
+commit d5c649e3b6f56bed1bef3910bb5e4ba50a342889
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Mon Oct 13 19:44:05 2014 -0500
+
+    Done through number 5 except part g.
+
+commit 82722534b04c36540436955a4af0a23a9483ea37
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Mon Oct 13 19:19:16 2014 -0500
+
+    Need to finish number 4 part j.
+
+commit 12b4e98ca2fe627838e10117c32d187099faf9cc
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Mon Oct 13 17:20:35 2014 -0500
+
+    Finished number 4, all functions seem to be working as they should.
+
+commit 864f9c90f41f5d4a338920ac5805887a2d08c97b
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Mon Oct 13 14:53:50 2014 -0500
+
+    Done throught number 3.
+
+commit 4597f56545ab98bcadcc2f7c65792e01178d3224
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Mon Oct 13 14:24:53 2014 -0500
+
+    Done through number 2.
+
+commit fb87248767171a23c6ca8b2a2770a10acdd6e8a2
+Author: Aaron Hardin <aaron.hardin@ttu.edu>
+Date:   Thu Oct 9 21:32:11 2014 -0500
+
+    Done through number 1 part f.
